@@ -1,0 +1,22 @@
+body{
+    margin:20px;
+    margin-top:auto;
+    margin-left:20%;;
+    margin-bottom:40px;
+}
+
+#box1{
+    border:5px solid;
+    width:250px;
+    height:250px;
+    font-size:22px;
+    background:greenyellow;
+    padding:10px;
+}
+#box2{
+    border:5px solid;
+    width:250px;
+    height:250px;
+    font-size:22px;
+    background: navajowhite;
+}

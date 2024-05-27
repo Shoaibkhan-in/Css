@@ -1,0 +1,61 @@
+body{
+    background-color:cadetblue;
+}
+.fa-twitter{
+    color:skyblue;
+}
+h1{
+    color:black;
+    text-align:center;
+    background-image:url(img/google.jpg);
+    background-repeat:repeat;
+    background-position: center;
+    background-attachment: scroll;
+    text-shadow:0px 5px 5px red;
+    text: shadow 10px 10px 0px rgb(240, 240, 10);
+}
+
+p{
+    font-family: cursive;
+    margin: 10px;
+    height:60px;
+    width:50%;
+}
+a{
+    color:black;
+}
+a:hover{
+    color:hotpink;
+}
+/*id select needs to use #
+for example #box1*/
+#box1{
+    text-align:center;
+    color:black;
+    background-color: beige;
+    padding:10px
+}
+/* for class selector you have to use . operator
+example class="box"
+.box{}*/
+#box1:hover{
+    border: 10px solid green ;
+    border-radius:100px;
+}
+.box{
+    margin:5px;
+    background-color:chocolate;
+    color:black;
+    font-family:serif;
+    font-size: 20px;
+    text-align:center;
+    opacity: 60%;
+}
+p.specail{
+    text-align:center;
+    font-style:italic;
+    background-color:crimson;
+    height:100px;
+    text-decoration-line: underline;
+    text-decoration-color: burlywood;
+}
